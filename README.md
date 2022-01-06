@@ -10,4 +10,4 @@ python setup.py install
 
 ## Usage
 
-See the demo notebook [Demo.ipynb](../blob/master/Demo.ipynb)
+See the demo notebook [Demo.ipynb](./master/Demo.ipynb)
